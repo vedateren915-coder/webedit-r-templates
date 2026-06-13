@@ -106,4 +106,5 @@
   {"type": "game-tictactoe", "title": "Tic Tac Toe", "subtitle": "XOX oyunu.", "category": "Oyun", "color": "blue", "icon": "grid"},
   {"type": "game-breakout", "title": "Breakout", "subtitle": "Top ve tuğla oyunu.", "category": "Oyun", "color": "orange", "icon": "square.grid.4x3.fill"},
   {"type": "game-typing", "title": "Typing Game", "subtitle": "Yazma hızı oyunu.", "category": "Oyun", "color": "cyan", "icon": "keyboard.fill"}
+  {"type": "code-csharp-hello", "title": "C# Merhaba Dunya", "subtitle": "Basit C# konsol uygulamasi ornegi.", "category": "Code", "color": "purple", "icon": "chevron.left.forwardslash.chevron.right"}
 ]
